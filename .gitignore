@@ -399,4 +399,4 @@ FodyWeavers.xsd
 
 #CSharp WEB API Project
 Migrations/*
-DB/*
+*.db
